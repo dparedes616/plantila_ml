@@ -1,0 +1,1 @@
+In this folder, the processed information will be stored.
