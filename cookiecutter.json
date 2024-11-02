@@ -1,6 +1,6 @@
 {
     "project_name": "My Project",
-    "author_name": "Carli Code",
-    "python_version": "3.8",
+    "author_name": "Daniel Paredes",
+    "python_version": "3.11",
     "license": ["MIT" , "GPL", "Apache"]
 }

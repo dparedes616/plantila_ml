@@ -20,5 +20,13 @@ Este proyecto contiene el flujo completo para entrenar y evaluar un modelo de ma
 
 Para configurar el entorno, ejecuta el siguiente comando:
 
+To activate this environment, use
+#
+#     $ conda activate {{cookiecutter.project_name}}
+#
+# To deactivate an active environment, use
+#
+#     $ conda deactivate
+
 ```bash
 conda env create -f environment.yml
