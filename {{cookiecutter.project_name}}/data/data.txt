@@ -1,0 +1,1 @@
+In this folder, unprocessed raw data will be stored. Save the information in .csv format and name the file "data."
